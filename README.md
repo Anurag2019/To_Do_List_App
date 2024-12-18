@@ -1,6 +1,3 @@
-<<<<<<< HEAD
-# To_Do_List_App
-=======
 
 # 🌟 To-Do-List App - Your Personal Task Manager in Python 🌟
 
@@ -62,4 +59,3 @@ This project was made possible by Python, its amazing community, and the incredi
 ## 🌟 Stay Productive! 🌟
 
 With the **To-Do-List App**, managing your tasks has never been this simple and fun. Say goodbye to scattered notes and hello to an organized, productive you! Let’s get things done, one task at a time. 🏆
->>>>>>> 7a3d9b30d7c85c3a7a645a967a4f4737222e4661
