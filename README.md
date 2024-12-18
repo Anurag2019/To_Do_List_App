@@ -1,7 +1,4 @@
 
-# To_Do_List_App
-
-
 # 🌟 To-Do-List App - Your Personal Task Manager in Python 🌟
 
 Welcome to **To-Do-List App** — the task manager that’ll help you organize your life and conquer your to-dos, one task at a time! Whether it's work, school, or personal goals, this app is your ultimate productivity companion, built with Python for simplicity and ease of use. 🚀
